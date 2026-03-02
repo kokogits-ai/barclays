@@ -1,0 +1,5 @@
+{
+  "name": "Barclays Online Banking Replica",
+  "description": "A high-fidelity replica of the Barclays online banking dashboard with transfer capabilities, transaction history, and account management.",
+  "requestFramePermissions": []
+}
